@@ -2,3 +2,8 @@
 
 
 gcloud compute instances list
+
+
+
+gcloud storage ls
+
