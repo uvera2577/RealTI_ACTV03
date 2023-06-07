@@ -25,3 +25,13 @@ gcloud storage ls
 ```
 gcloud iam service-accounts list
 ```
+
+* https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419
+gcloud compute instances list  
+
+* https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419#gcloud
+
+* https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets
+
+
+* https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419#gcloud
